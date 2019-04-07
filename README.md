@@ -19,6 +19,9 @@ Drag brake and adjustable brake strength in vehicle mode.
 
 Complemenetary pwm, freewheeling.
 Vehicle mode 1 ( quad mode ) uses eeprom for settings. 
-Vehicel mode 2 ( crawler mode) comp_pwm and max braking, instant reverse.
+
+Vehicle mode 2 ( crawler mode) comp_pwm and max braking, instant reverse.
+
 Vehicle mode 3 ( car mode ) uses adjustable strength brake on first reverse and requires double tap to change direction.
+
 Vehicle mode 4 ( car mode but will reverse itself when motor has slowed )
