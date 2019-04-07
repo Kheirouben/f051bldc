@@ -16,8 +16,8 @@ Dshotcommands to change direction, enable 3d mode and save settings to eeprom.
 
 3d mode or bididrectional for vehicle modes.
 Drag brake and adjustable brake strength in vehicle mode.
-
 Complemenetary pwm, freewheeling.
+
 Vehicle mode 1 ( quad mode ) uses eeprom for settings. 
 
 Vehicle mode 2 ( crawler mode) comp_pwm and max braking, instant reverse.
